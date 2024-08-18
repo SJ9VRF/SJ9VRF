@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+.resume {
+    max-width: 800px;
+    margin: auto;
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.resume-header {
+    text-align: center;
+    border-bottom: 2px solid #000;
+    padding-bottom: 10px;
+}
+
+.contact-info a {
+    display: block;
+    margin: 5px 0;
+    color: #000;
+    text-decoration: none;
+}
+
+.contact-info a:hover {
+    text-decoration: underline;
+}
+
+section h2 {
+    color: #444;
+    font-size: 20px;
+}
+
+.job h3 {
+    font-size: 18px;
+    color: #333;
+}
+
+ul {
+    padding-left: 20px;
+}
+
+li {
+    margin-bottom: 5px;
+}
