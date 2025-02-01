@@ -15,7 +15,6 @@
   - **[Adaptive Low-Rank Spectrum Fine-Tuning (ALoRS)](https://github.com/SJ9VRF/Adaptive-Low-Rank-Spectrum-Fine-Tuning-ALoRS)**
   - **[Spectral Gradient Merging (SGM)](https://github.com/SJ9VRF/Spectral-Gradient-Merging-SGM)**
 
-  - **Repo:** [mmllm-post-training](https://github.com/example/mmllm-post-training)
 
 - 🎯 Alignment
   - **Repo:** [model-alignment](https://github.com/example/model-alignment)
