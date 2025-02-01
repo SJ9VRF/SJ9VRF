@@ -41,6 +41,7 @@
 
 - 🤖 Embodied AI
   - **[Agentic Humanoid](https://github.com/SJ9VRF/Agentic-Humanoids)**: Autonomous components collaborate for dynamic, adaptive decision-making.
+  - **[Humanoid Foundation Model](https://github.com/SJ9VRF/Humanoid-Foundation-Model)**: Predicting action sequences through video-based joint analysis.
 
 - 📚 RAG (Retrieval Augmented Generation)
   - **[RAG Methods Overview](https://github.com/SJ9VRF/Retrieval-Augmented-Methods)**
