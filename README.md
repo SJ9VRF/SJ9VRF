@@ -20,7 +20,7 @@
   - **[Model Alignment Overview](https://github.com/example/model-alignment)**
 
 - 🧩 Reasoning
-  - **[Reasoning Models Overview](https://github.com/example/reasoning-models)**
+  - **[Reasoning Models Overview](https://github.com/SJ9VRF/LLM-Reasoning-Methods)**
  
 - 🔍 Interpretability
   - **[Model Interpretability](https://github.com/SJ9VRF/Interpretability-Foundation-Models)**
