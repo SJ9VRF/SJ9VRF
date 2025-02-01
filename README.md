@@ -36,8 +36,8 @@
 
  
 - 🌍 World Modeling
-  - **[BindingWorldModel](https://github.com/SJ9VRF/BindingWorldModel)**
-  - **[Realator](https://github.com/SJ9VRF/Realator)**
+  - **[BindingWorldModel](https://github.com/SJ9VRF/BindingWorldModel)**: Fuses multi-sensory data for unified intelligent representations.
+  - **[Realator](https://github.com/SJ9VRF/Realator)**: A Real simulator for the purpose of world model building
 
 - 🤖 Embodied AI
   - **[Agentic Humanoid](https://github.com/SJ9VRF/Agentic-Humanoids)**: Autonomous components collaborate for dynamic, adaptive decision-making.
