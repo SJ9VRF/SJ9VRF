@@ -4,14 +4,30 @@
 
 - *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
 
-- MM Foundation model for Decision Making
-- MMLLM Post Training
-- Alignment
-- Reasoning
-- Agents
-- Embodied AI
-- RAG
-- Cool
+- 🧠 MM Foundation Model for Decision Making
+  - **Repo:** [mm-decision-making](https://github.com/example/mm-decision-making)
+
+- 🚀 MMLLM Post Training
+  - **Repo:** [mmllm-post-training](https://github.com/example/mmllm-post-training)
+
+- 🎯 Alignment
+  - **Repo:** [model-alignment](https://github.com/example/model-alignment)
+
+- 🧩 Reasoning
+  - **Repo:** [reasoning-models](https://github.com/example/reasoning-models)
+
+- 🕹️ Agents
+  - **Repo:** [agent-models](https://github.com/example/agent-models)
+
+- 🤖 Embodied AI
+  - **Repo:** [embodied-ai](https://github.com/example/embodied-ai)
+
+- 📚 RAG (Retrieval Augmented Generation)
+  - **Repo:** [rag-model](https://github.com/example/rag-model)
+
+- ⭐ Cool
+  - **Repo:** [cool-projects](https://github.com/example/cool-projects)
+
 <!--
 **SJ9VRF/SJ9VRF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
