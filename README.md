@@ -30,7 +30,7 @@
   - **[Responsible AI Approaches](https://github.com/SJ9VRF/Safety-Learning)**
 
 - 🕹️ Agents and Agentic
-  - **[Agentic Humanoid](https://github.com/SJ9VRF/Agentic-Humanoids)**
+  - **[Agentic Humanoid](https://github.com/SJ9VRF/Agentic-Humanoids)**: Autonomous components collaborate for dynamic, adaptive decision-making.
   - **[AdFlux Agentic Engine](https://github.com/SJ9VRF/AdFlux-Agentic-Engine)**: Sophisticated ad system using agentic decision-making models.
 
  
