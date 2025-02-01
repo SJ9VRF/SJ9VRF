@@ -1,9 +1,7 @@
 ## Hi there 👋
-
 - 🌎 ⇌💡⇌ 💻 ⇌ 🚀
-
 - *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
-
+---
 ### Overview
 - 🧠 MM Foundation Model for Decision Making
   - **Repo:** [mm-decision-making](https://github.com/example/mm-decision-making)
