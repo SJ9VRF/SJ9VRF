@@ -25,18 +25,19 @@
 - 🔍 Interpretability
   - **[Model Interpretability](https://github.com/SJ9VRF/Interpretability-Foundation-Models)**
 
+ 
+- 🛡️ Responsible AI: Safety, Privacy, Trust and Ethics
+  - **[Responsible AI](https://github.com/example/embodied-ai)**
 
 - 🕹️ Agents
   - **Repo:** [agent-models](https://github.com/example/agent-models)
 
-- 🤖 Embodied AI
-  - **[embodied-ai](https://github.com/example/embodied-ai)**
- 
-- 🛡️ Responsible AI: Safety, Privacy, Trust and Ethics
-  - **[Responsible AI](https://github.com/example/embodied-ai)**
  
 - 🌍 World Modeling
   - **[World Modeling](https://github.com/example/embodied-ai)**
+
+- 🤖 Embodied AI
+  - **[embodied-ai](https://github.com/example/embodied-ai)**
 
 - 📚 RAG (Retrieval Augmented Generation)
   - **[RAG Methods Overview](https://github.com/SJ9VRF/Retrieval-Augmented-Methods)**
