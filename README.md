@@ -33,9 +33,10 @@
   - **[embodied-ai](https://github.com/example/embodied-ai)**
  
 - 🛡️ Responsible AI: Safety, Privacy, Trust and Ethics
-  - **[embodied-ai](https://github.com/example/embodied-ai)**
+  - **[Responsible AI](https://github.com/example/embodied-ai)**
  
-- World Modeling
+- 🌍 World Modeling
+  - **[World Modeling](https://github.com/example/embodied-ai)**
 
 - 📚 RAG (Retrieval Augmented Generation)
   - **[RAG Methods Overview](https://github.com/SJ9VRF/Retrieval-Augmented-Methods)**
