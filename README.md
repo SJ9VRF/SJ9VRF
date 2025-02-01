@@ -32,7 +32,7 @@
 - 🤖 Embodied AI
   - **[embodied-ai](https://github.com/example/embodied-ai)**
  
-- Responsible AI: Safety, Privacy, Trust and Ethics
+- 🛡️ Responsible AI: Safety, Privacy, Trust and Ethics
   - **[embodied-ai](https://github.com/example/embodied-ai)**
  
 - World Modeling
