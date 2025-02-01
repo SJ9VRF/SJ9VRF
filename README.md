@@ -4,7 +4,10 @@
 ---
 ### Overview
 - 🧠 MM Foundation Model for Decision Making
-  - **Repo:** [mm-decision-making](https://github.com/example/mm-decision-making)
+  - **[AdFlux PersonaTaste Engine](https://github.com/SJ9VRF/AdFlux-PersonaTaste-Engine)**: Enhancing AdFlux by incorporating persona-based tastes, utilizing user behavior history such as shopping data or web clicks.
+  - **[AdFlux Agentic Engine](https://github.com/SJ9VRF/AdFlux-Agentic-Engine)**: An agentic engine designed to address the complexities of a sophisticated ad system.
+  - **[AdFlux Engine](https://github.com/SJ9VRF/AdFlux-Engine)**: AdFlux Engine is a Foundation Model based Advertisement Simulator designed to predict and simulate user behavior (clicks and views) based on historical interaction data. Leveraging cutting-edge architectures like LAVA, Decision Transformers, Gato, and MuZero, AdFlux Engine helps optimize ad placements, enhance user engagement, and maximize conversion rates by including Reinforcement Learning from Human Feedback. Built with modularity and scalability in mind, AdFlux Engine combines the latest advancements in NLP, reinforcement learning, sequence modeling, and RLHF.
+
 
 - 🚀 MMLLM Post Training
   - **Repo:** [mmllm-post-training](https://github.com/example/mmllm-post-training)
