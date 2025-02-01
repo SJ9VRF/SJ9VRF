@@ -43,7 +43,7 @@
   - **[RAG Methods Overview](https://github.com/SJ9VRF/Retrieval-Augmented-Methods)**
 
 - ⭐ Cool
-  - **Repo:** [cool-projects](https://github.com/example/cool-projects)
+  - **[DiffuNet](https://github.com/SJ9VRF/DiffuNet)**
 
 <!--
 **SJ9VRF/SJ9VRF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
