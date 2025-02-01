@@ -9,10 +9,12 @@
   - **[AdFlux Engine](https://github.com/SJ9VRF/AdFlux-Engine)**: Simulates user behavior; leverages LAVA, Gato, RLHF for ad optimization.
 
 
-
-
-
 - 🚀 MMLLM Post Training
+  - **[SpectraQLoRA](https://github.com/SJ9VRF/SpectraQLoRA/tree/main)**
+  - **[Hybrid SpectraQLoRA](https://github.com/SJ9VRF/Hybrid-SpectraQLoRA/tree/main)**
+  - **[Adaptive Low-Rank Spectrum Fine-Tuning (ALoRS)](https://github.com/SJ9VRF/Adaptive-Low-Rank-Spectrum-Fine-Tuning-ALoRS)**
+  - **[Spectral Gradient Merging (SGM)](https://github.com/SJ9VRF/Spectral-Gradient-Merging-SGM)**
+
   - **Repo:** [mmllm-post-training](https://github.com/example/mmllm-post-training)
 
 - 🎯 Alignment
