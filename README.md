@@ -7,6 +7,7 @@
    - **[AdFlux Engine](https://github.com/SJ9VRF/AdFlux-Engine)**: Simulates user behavior; leverages LAVA, Gato, RLHF for ad optimization.
   - **[AdFlux PersonaTaste Engine](https://github.com/SJ9VRF/AdFlux-PersonaTaste-Engine)**: Utilizes shopping data, web clicks for personalized ad experiences.
   - **[AdFlux Agentic Engine](https://github.com/SJ9VRF/AdFlux-Agentic-Engine)**: Sophisticated ad system using agentic decision-making models.
+  - **[Agentic Humanoid](https://github.com/SJ9VRF/Agentic-Humanoids)**: Autonomous components collaborate for dynamic, adaptive decision-making.
 
 
 - 🚀 MMLLM Post Training
@@ -38,7 +39,7 @@
   - **[BindingWorldMode](https://github.com/SJ9VRF/BindingWorldModel)**
 
 - 🤖 Embodied AI
-  - **[Agentic Humanoid](https://github.com/SJ9VRF/Agentic-Humanoids)**
+  - **[Agentic Humanoid](https://github.com/SJ9VRF/Agentic-Humanoids)**: Autonomous components collaborate for dynamic, adaptive decision-making.
 
 - 📚 RAG (Retrieval Augmented Generation)
   - **[RAG Methods Overview](https://github.com/SJ9VRF/Retrieval-Augmented-Methods)**
