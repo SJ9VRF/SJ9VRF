@@ -10,10 +10,10 @@
 
 
 - 🚀 MMLLM Post Training
-  - **[SpectraQLoRA](https://github.com/SJ9VRF/SpectraQLoRA/tree/main)**
-  - **[Hybrid SpectraQLoRA](https://github.com/SJ9VRF/Hybrid-SpectraQLoRA/tree/main)**
-  - **[Adaptive Low-Rank Spectrum Fine-Tuning (ALoRS)](https://github.com/SJ9VRF/Adaptive-Low-Rank-Spectrum-Fine-Tuning-ALoRS)**
-  - **[Spectral Gradient Merging (SGM)](https://github.com/SJ9VRF/Spectral-Gradient-Merging-SGM)**
+  - **[SpectraQLoRA](https://github.com/SJ9VRF/SpectraQLoRA/tree/main)**: Combines QLoRA and Spectrum for efficient fine-tuning.
+  - **[Hybrid SpectraQLoRA](https://github.com/SJ9VRF/Hybrid-SpectraQLoRA/tree/main)**: Adds dynamic adapter activation based on SNR.
+  - **[Adaptive Low-Rank Spectrum Fine-Tuning (ALoRS)](https://github.com/SJ9VRF/Adaptive-Low-Rank-Spectrum-Fine-Tuning-ALoRS)**: Adjusts LoRA ranks based on layer importance dynamically.
+  - **[Spectral Gradient Merging (SGM)](https://github.com/SJ9VRF/Spectral-Gradient-Merging-SGM)** : Merges gradients across similar high-SNR layers.
 
 
 - 🎯 Alignment
