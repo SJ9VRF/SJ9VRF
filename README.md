@@ -31,6 +31,7 @@
 
 - 🕹️ Agents and Agentic
   - **[Agentic Humanoid](https://github.com/SJ9VRF/Agentic-Humanoids)**
+  - **[AdFlux Agentic Engine](https://github.com/SJ9VRF/AdFlux-Agentic-Engine)**: Sophisticated ad system using agentic decision-making models.
 
  
 - 🌍 World Modeling
