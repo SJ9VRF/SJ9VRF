@@ -4,9 +4,11 @@
 ---
 ### Overview
 - 🧠 MM Foundation Model for Decision Making
-  - **[AdFlux PersonaTaste Engine](https://github.com/SJ9VRF/AdFlux-PersonaTaste-Engine)**: Persona-based taste enhancement engine.
-  - **[AdFlux Agentic Engine](https://github.com/SJ9VRF/AdFlux-Agentic-Engine)**: Engine for complex ad systems.
-  - **[AdFlux Engine](https://github.com/SJ9VRF/AdFlux-Engine)**: Foundation model for ad simulation.
+  - **[AdFlux PersonaTaste Engine](https://github.com/SJ9VRF/AdFlux-PersonaTaste-Engine)**: Utilizes shopping data, web clicks for personalized ad experiences.
+  - **[AdFlux Agentic Engine](https://github.com/SJ9VRF/AdFlux-Agentic-Engine)**: Sophisticated ad system using agentic decision-making models.
+  - **[AdFlux Engine](https://github.com/SJ9VRF/AdFlux-Engine)**: Simulates user behavior; leverages LAVA, Gato, RLHF for ad optimization.
+
+
 
 
 
