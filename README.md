@@ -5,12 +5,12 @@
 - *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
 
 - MM Foundation model for Decision Making
-- Agents
-- Embodied AI
+- MMLLM Post Training
 - Alignment
 - Reasoning
+- Agents
+- Embodied AI
 - RAG
-- Post Training
 - Cool
 <!--
 **SJ9VRF/SJ9VRF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
