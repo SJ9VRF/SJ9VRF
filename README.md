@@ -36,7 +36,8 @@
 
  
 - 🌍 World Modeling
-  - **[BindingWorldMode](https://github.com/SJ9VRF/BindingWorldModel)**
+  - **[BindingWorldModel](https://github.com/SJ9VRF/BindingWorldModel)**
+  - **[Realator](https://github.com/SJ9VRF/Realator)**
 
 - 🤖 Embodied AI
   - **[Agentic Humanoid](https://github.com/SJ9VRF/Agentic-Humanoids)**: Autonomous components collaborate for dynamic, adaptive decision-making.
