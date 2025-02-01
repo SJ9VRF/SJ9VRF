@@ -27,7 +27,7 @@
 
  
 - 🛡️ Responsible AI: Safety, Privacy, Trust and Ethics
-  - **[Responsible AI](https://github.com/example/embodied-ai)**
+  - **[Responsible AI Approaches](https://github.com/SJ9VRF/Safety-Learning)**
 
 - 🕹️ Agents
   - **Repo:** [agent-models](https://github.com/example/agent-models)
