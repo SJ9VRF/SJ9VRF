@@ -30,14 +30,14 @@
   - **[Responsible AI Approaches](https://github.com/SJ9VRF/Safety-Learning)**
 
 - 🕹️ Agents and Agentic
-  - **Repo:** [agent-models](https://github.com/example/agent-models)
+  - **[Agentic Humanoid](https://github.com/SJ9VRF/Agentic-Humanoids)**
 
  
 - 🌍 World Modeling
   - **[World Modeling](https://github.com/example/embodied-ai)**
 
 - 🤖 Embodied AI
-  - **[embodied-ai](https://github.com/example/embodied-ai)**
+  - **[Agentic Humanoid](https://github.com/SJ9VRF/Agentic-Humanoids)**
 
 - 📚 RAG (Retrieval Augmented Generation)
   - **[RAG Methods Overview](https://github.com/SJ9VRF/Retrieval-Augmented-Methods)**
