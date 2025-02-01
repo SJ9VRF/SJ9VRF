@@ -17,19 +17,23 @@
 
 
 - 🎯 Alignment
-  - **Repo:** [model-alignment](https://github.com/example/model-alignment)
+  - **[Model Alignment Overview](https://github.com/example/model-alignment)**
 
 - 🧩 Reasoning
-  - **Repo:** [reasoning-models](https://github.com/example/reasoning-models)
+  - **[Reasoning Models Overview](https://github.com/example/reasoning-models)**
+ 
+- 🔍 Interpretability
+  - **[Model Interpretability](https://github.com/SJ9VRF/Interpretability-Foundation-Models)**
+
 
 - 🕹️ Agents
   - **Repo:** [agent-models](https://github.com/example/agent-models)
 
 - 🤖 Embodied AI
-  - **Repo:** [embodied-ai](https://github.com/example/embodied-ai)
+  - **[embodied-ai](https://github.com/example/embodied-ai)**
 
 - 📚 RAG (Retrieval Augmented Generation)
-  - **Repo:** [rag-model](https://github.com/example/rag-model)
+  - **[RAG Methods Overview](https://github.com/SJ9VRF/Retrieval-Augmented-Methods)**
 
 - ⭐ Cool
   - **Repo:** [cool-projects](https://github.com/example/cool-projects)
