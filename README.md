@@ -34,7 +34,7 @@
 
  
 - 🌍 World Modeling
-  - **[World Modeling](https://github.com/example/embodied-ai)**
+  - **[BindingWorldMode](https://github.com/SJ9VRF/BindingWorldModel)**
 
 - 🤖 Embodied AI
   - **[Agentic Humanoid](https://github.com/SJ9VRF/Agentic-Humanoids)**
