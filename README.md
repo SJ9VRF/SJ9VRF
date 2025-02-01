@@ -43,7 +43,7 @@
   - **[RAG Methods Overview](https://github.com/SJ9VRF/Retrieval-Augmented-Methods)**
 
 - ⭐ Cool
-  - **[DiffuNet](https://github.com/SJ9VRF/DiffuNet)**
+  - **[DiffuNet](https://github.com/SJ9VRF/DiffuNet)**: Neural Architectures with Diffusion Models
 
 <!--
 **SJ9VRF/SJ9VRF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
