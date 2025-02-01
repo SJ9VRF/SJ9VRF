@@ -17,7 +17,7 @@
 
 
 - 🎯 Alignment
-  - **[Model Alignment Overview](https://github.com/example/model-alignment)**
+  - **[Model Alignment Overview](https://github.com/SJ9VRF/Alignment-Methods-for-Large-Language-Models)**
 
 - 🧩 Reasoning
   - **[Reasoning Models Overview](https://github.com/SJ9VRF/LLM-Reasoning-Methods)**
@@ -29,7 +29,7 @@
 - 🛡️ Responsible AI: Safety, Privacy, Trust and Ethics
   - **[Responsible AI Approaches](https://github.com/SJ9VRF/Safety-Learning)**
 
-- 🕹️ Agents
+- 🕹️ Agents and Agentic
   - **Repo:** [agent-models](https://github.com/example/agent-models)
 
  
