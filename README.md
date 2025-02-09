@@ -21,7 +21,9 @@
   - **[Model Alignment Overview](https://github.com/SJ9VRF/Alignment-Methods-for-Large-Language-Models)**
   - **[AAEP-RedTeaming](https://github.com/SJ9VRF/AAEP-RedTeaming)**: AAEP identifies, assesses, and addresses LLMs' adversarial vulnerabilities.
   - **[ASSC-Alignment](https://github.com/SJ9VRF/ASSC-Alignment)**: AI alignment via self-supervised Large Language Models.
-
+  - **[llm-eval-framework](https://github.com/SJ9VRF/llm-eval-framework/tree/main)**: Evaluation Paradigm for Aligning LLM Behavior with Real-World User Expectations
+  - **[llm-rlhf-optimization](https://github.com/SJ9VRF/llm-rlhf-optimization/tree/main)**: A Scalable Framework for Human-Centric Model Adaptation
+    
 - 🧩 Reasoning
   - **[Reasoning Models Overview](https://github.com/SJ9VRF/LLM-Reasoning-Methods)**
  
