@@ -19,8 +19,8 @@
 
 - 🎯 Alignment
   - **[Model Alignment Overview](https://github.com/SJ9VRF/Alignment-Methods-for-Large-Language-Models)**
-  - **[AAEP-RedTeaming](https://github.com/SJ9VRF/AAEP-RedTeaming)**: 
-  - **[ASSC-Alignment](https://github.com/SJ9VRF/ASSC-Alignment)**: 
+  - **[AAEP-RedTeaming](https://github.com/SJ9VRF/AAEP-RedTeaming)**: AAEP identifies, assesses, and addresses LLMs' adversarial vulnerabilities.
+  - **[ASSC-Alignment](https://github.com/SJ9VRF/ASSC-Alignment)**: AI alignment via self-supervised Large Language Models.
 
 - 🧩 Reasoning
   - **[Reasoning Models Overview](https://github.com/SJ9VRF/LLM-Reasoning-Methods)**
