@@ -28,7 +28,7 @@
   - **[Reasoning Models Overview](https://github.com/SJ9VRF/LLM-Reasoning-Methods)**
  
 - 🔍 Interpretability
-  - **[Model Interpretability](https://github.com/SJ9VRF/Interpretability-Foundation-Models)**
+  - **[Model Interpretability Approaches](https://github.com/SJ9VRF/Interpretability-Foundation-Models)**
 
  
 - 🛡️ Responsible AI: Safety, Privacy, Trust and Ethics
