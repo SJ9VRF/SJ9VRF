@@ -40,6 +40,7 @@
 - 🕹️ Agents and Agentic
   - **[Agentic Humanoid](https://github.com/SJ9VRF/Agentic-Humanoids)**: Autonomous components collaborate for dynamic, adaptive decision-making.
   - **[AdFlux Agentic Engine](https://github.com/SJ9VRF/AdFlux-Agentic-Engine)**: Sophisticated ad system using agentic decision-making models.
+  - **[Agentic Decision Making](https://github.com/SJ9VRF/Agentic-DecisionMaking)**: Autonomous AI systems making informed, independent decisions.
 
  
 - 🌍 World Modeling
